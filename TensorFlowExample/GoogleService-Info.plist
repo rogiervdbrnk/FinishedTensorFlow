@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>717834134814-04sdscavlhrme13bmquubid5kp92t33l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.717834134814-04sdscavlhrme13bmquubid5kp92t33l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBR4RjfBNQzTM0_NuHwjpZ9F3wk-yIvs1g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>717834134814</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.incentro.TensorFlowExample</string>
+	<key>PROJECT_ID</key>
+	<string>tensorflowexampleproject</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tensorflowexampleproject.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:717834134814:ios:e72b61180a5e0d79</string>
+	<key>DATABASE_URL</key>
+	<string>https://tensorflowexampleproject.firebaseio.com</string>
+</dict>
+</plist>
